@@ -9,22 +9,16 @@ tags: [Github, TEA, Post]
 ## Introduction to Python
 
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
-<ol>
-<li>
-I created a GitHub account
-</li>
-<li>
-I forked a repository from https://github.com/datamaunz
-</li>
-<li>
-I renamed the forked repository tea-berlin.github.io
-</li>
-<li>
-I edited the files as described in the README.md
-</li>
-<li>
-Now I am writing my first post by following the advice that I got from the README file
-</li>
-</ol>
+
+1.I created a GitHub account
+
+2.I forked a repository from https://github.com/datamaunz
+
+3.I renamed the forked repository tea-berlin.github.io
+
+4.I edited the files as described in the README.md
+
+5.Now I am writing my first post by following the advice that I got from the README file
+
 
 ![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
